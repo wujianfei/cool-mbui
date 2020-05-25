@@ -1,6 +1,6 @@
 {
   "name": "cool-mobile-ui",
-  "version": "1.0.01",
+  "version": "1.0.02",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,12 @@
     "url": "https://github.com/wujianfei/cool-mobile-ui/issues"
   },
   "homepage": "https://github.com/wujianfei/cool-mobile-ui#readme",
+  "keywords": [
+    "jf",
+    "cool-mobile-ui",
+    "cool-mbui",
+    "cool-mui"
+  ],
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",

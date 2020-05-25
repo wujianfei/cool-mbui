@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wujianfei/cool-mobile-ui.git"
+    "url": "git+https://github.com/wujianfei/cool-mbui.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wujianfei/cool-mobile-ui/issues"
+    "url": "https://github.com/wujianfei/cool-mbui/issues"
   },
-  "homepage": "https://github.com/wujianfei/cool-mobile-ui#readme",
+  "homepage": "https://github.com/wujianfei/cool-mbui#readme",
   "keywords": [
     "jf",
     "cool-mobile-ui",
